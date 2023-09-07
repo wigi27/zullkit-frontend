@@ -1,14 +1,14 @@
 <script setup>
 import Hero from "@/components/Hero.vue";
-import Categories from "@/components/Categories.vue";
-import Items from "@/components/Items.vue";
+import Category from "@/components/Category.vue";
+import Item from "@/components/Item.vue";
 </script>
 
 <template>
   <main>
     <Hero />
-    <Categories />
-    <Items />
+    <Category />
+    <Item />
 
     
   </main>
